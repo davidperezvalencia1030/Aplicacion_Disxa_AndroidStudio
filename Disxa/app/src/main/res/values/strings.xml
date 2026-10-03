@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Disxa</string>
+    <string name="btn_iniciar">Iniciar</string>
+    <string name="btn_Modulo1">Modulo 1 </string>
+    <string name="btnlec">Lectura guiada</string>
+    <string name="btn_Modulo2">Modulo 2</string>
+    <string name="btnforma">Forma la palabra</string>
+    <string name="btn_Modulo3">Modulo 3</string>
+    <string name="btnasocia">Asocia la letra</string>
+    <string name="btn_Modulo4">Mosulo 4</string>
+    <string name="btnreto">Reto</string>
+    <string name="Perzo">Personalización</string>
+    <string name="regresar">Regresar</string>
+    <string name="niveles">Selecciona el nivel que quiera practicar(Entre el numero sea mas alto mayor la dificultad)</string>
+    <string name="nivel1lec">Hoy hace sol.
+El cielo está azul.
+No hay nubes.
+
+Luis sale de casa.
+Camina hacia el parque.
+Le gusta el aire libre.
+
+En el parque hay árboles.
+También hay flores de colores.
+Se ven pájaros volando.
+
+Luis se sienta en un banco.
+Saca un libro.
+Quiere leer un rato.
+
+La lectura le ayuda a soñar.
+Imagina lugares nuevos.
+Se siente tranquilo.
+
+De repente, ve a un amigo.
+Es Ana.
+Ana trae una pelota.
+
+—¿Jugamos? —pregunta Ana.
+—¡Sí! —responde Luis.
+
+Los dos juegan felices.
+Corren y ríen.
+Es un buen día.
+</string>
+</resources>

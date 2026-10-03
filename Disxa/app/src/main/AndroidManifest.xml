@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Disxa">
+        <activity
+            android:name=".nivel3For"
+            android:exported="false" />
+        <activity
+            android:name=".nivel2For"
+            android:exported="false" />
+        <activity
+            android:name=".Perzonalisacion"
+            android:exported="false" />
+        <activity
+            android:name=".Asocialaletra"
+            android:exported="false" />
+        <activity
+            android:name=".Reto"
+            android:exported="false" />
+        <activity
+            android:name=".nivel1For"
+            android:exported="false" />
+        <activity
+            android:name=".Formalapalabra"
+            android:exported="false" />
+        <activity
+            android:name=".lecturanivel3"
+            android:exported="false" />
+        <activity
+            android:name=".lecturanivel2"
+            android:exported="false" />
+        <activity
+            android:name=".lecturanivel1"
+            android:exported="false" />
+        <activity
+            android:name=".Lecturaguiada"
+            android:exported="false" />
+        <activity
+            android:name=".disxa_menu"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
